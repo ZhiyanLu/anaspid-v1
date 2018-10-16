@@ -1,0 +1,6 @@
+PREFIX db: <http://139.59.214.28:27017/>
+PREFIX meta: <file:///home/magiccream/Desktop/anapsid/endpoints/db_meta.ttl/>
+
+SELECT ?TIME WHERE {
+    ?LATITUDE db:lg "37" .
+}

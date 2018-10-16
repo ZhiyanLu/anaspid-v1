@@ -1,0 +1,2 @@
+<http://139.59.214.28:27017/> <http://139.59.214.28:27017/lg> <http://139.59.214.28:27017/le> <http://139.59.214.28:27017/eq> <http://139.59.214.28:27017/neq> <http://139.59.214.28:27017/in> <http://139.59.214.28:27017/is> <http://139.59.214.28:27017/belong> .
+<file:///Users/mashenjun/WorkSpace/anapsid/endpoints/db_meta.ttl> <file:///Users/mashenjun/WorkSpace/anapsid/endpoints/db_meta.ttl/name> <file:///Users/mashenjun/WorkSpace/anapsid/endpoints/db_meta.ttl/type> .
